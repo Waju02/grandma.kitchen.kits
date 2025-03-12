@@ -1,0 +1,48 @@
+
+Grandma Page Content;
+
+- Home Page
+- About
+- Products
+- Services
+- Contact
+
+- Home Page
+Head
+Sub-head (about, products, service, contact).
+Article on Company
+Quotes on company, products and services
+Little of Slides
+Footer
+
+- About
+Article on Company
+History on company
+Quote "Article on company mission and vision
+Article on Products
+Article on Services
+Footer
+
+- Products
+Classes of Products
+Pics of several products with little description with Price
+Footer
+
+- Services
+Classes of services
+Reason why you need our services
+Slides of different services render samples
+How to Book for our service
+Footer
+
+- Contact
+Direct Email Contact
+In-tab mailing contact on company page
+Phone Contact
+Address Contact
+Footer
+
+Thank for visiting our site, we hope we were able to assist your kitchen needs.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63435.21344877614!2d3.4908805999999997!3d6.4324616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf7b977b4dd13%3A0xdd5a7ec107c8ead9!2sBERA%20Estate%20chevron!5e0!3m2!1sen!2sng!4v1737538382428!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
